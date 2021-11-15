@@ -1,0 +1,80 @@
+body {
+	background: #000;
+}
+h1 {
+	font-size: 50px;
+	left: 30px;
+	position: fixed;
+	font-family: monospace;
+	color: #0a990f;
+	display: none;
+	position: fixed;top: 50px;
+}
+h2 {
+	font-size: 50px;
+	left: 30px;
+	position: fixed;
+	font-family: monospace;
+	color: #0a990f;
+	display: none;
+	position: fixed;top: 100px;
+}
+h3 {
+	font-size: 50px;
+	left: 30px;
+	position: fixed;
+	font-family: monospace;
+	color: #0a990f;
+	display: none;
+	position: fixed;top: 153px;
+}
+h4 {
+	font-size: 50px;
+	left: 30px;
+	position: fixed;
+	font-family: monospace;
+	color: #0a990f;
+	display: none;
+	position: fixed;top: 200px;
+}
+h5 {
+	font-size: 50px;
+	left: 30px;
+	position: fixed;
+	font-family: monospace;
+	color: #0a990f;
+	display: none;
+	position: fixed;top: 250px;
+}
+h6 {
+	font-size: 50px;
+	left: 30px;
+	position: fixed;
+	font-family: monospace;
+	color: #0a990f;
+	display: none;
+	position: fixed;top: 398px;
+}
+#h8 {
+	font-size: 50px;
+	left: 30px;
+	position: fixed;
+	font-family: monospace;
+	color: #0a990f;
+	display: ;
+	position: fixed;top: 523px;
+}
+button {
+	margin: auto;
+    position: fixed;
+    display: none;
+    top: 800px;
+    width: 500px;
+    height: 100px;
+    background: #000;
+    color: #fff;
+    font-size: 40px;
+    font-family: monospace;
+    border: 4px solid #fff;
+    left: 235px;
+}
